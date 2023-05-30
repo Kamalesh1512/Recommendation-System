@@ -1,4 +1,4 @@
-# Recommeder-System
+# Recommendation-System
 Movie Recommender System (content Based)
 
 Main focus of the recommendation system is to filter and predict only those movies which a user would prefer,given some data about the user him or herself.
